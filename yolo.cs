@@ -6,3 +6,8 @@ static void main(string args){
 static void test() {
    //sendTest();
 }
+
+
+static void nest() {
+  test();
+}
