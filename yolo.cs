@@ -11,3 +11,7 @@ static void test() {
 static void nest() {
   test();
 }
+
+static void no() {
+  echo "yes";
+}
