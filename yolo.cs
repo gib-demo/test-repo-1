@@ -15,3 +15,7 @@ static void nest() {
 static void no() {
   echo "yes";
 }
+
+static void super() {
+  Console.WriteLine("super");
+}
