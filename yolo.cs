@@ -11,3 +11,11 @@ static void test() {
 static void nest() {
   test();
 }
+
+static void no() {
+  echo "yes";
+}
+
+static void super() {
+  Console.WriteLine("super");
+}
